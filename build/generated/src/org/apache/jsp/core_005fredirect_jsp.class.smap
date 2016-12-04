@@ -1,0 +1,12 @@
+SMAP
+core_005fredirect_jsp.java
+JSP
+*S JSP
+*F
++ 0 core_redirect.jsp
+core_redirect.jsp
+*L
+5,11:54
+15:88,5
+15,4:67
+*E
